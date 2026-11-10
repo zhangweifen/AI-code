@@ -1,5 +1,6 @@
-﻿pandas
+pandas
 openpyxl
 Pillow
 numpy
 rapidocr-onnxruntime
+extract-msg
